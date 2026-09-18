@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AnrosPrac/arsaze",
+  "description": "AI-native video editing: timeline editing, color, audio, captions, generation (image/video/voice/music/SFX), review/share, and export — as MCP tools over your Arsaze account.",
+  "repository": {
+    "url": "https://github.com/AnrosPrac/arsaze-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.arsaze.com/mcp"
+    }
+  ]
+}
