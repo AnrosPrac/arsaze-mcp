@@ -7,6 +7,13 @@
     "source": "github"
   },
   "version": "1.0.0",
+  "icons": [
+    {
+      "src": "https://www.arsaze.com/arsaze-hero-logo-transparent.png",
+      "mimeType": "image/png",
+      "sizes": ["any"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
