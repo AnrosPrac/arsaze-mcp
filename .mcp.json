@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "arsaze": {
+      "type": "streamable-http",
+      "url": "https://api.arsaze.com/mcp"
+    }
+  }
+}
