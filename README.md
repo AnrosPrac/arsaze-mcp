@@ -17,7 +17,7 @@ controls to, not a requirement.
 - **Auth:** OAuth 2.1 with PKCE — you'll be prompted to sign in to your Arsaze
   account and authorize the connecting client on first use. No API keys to copy
   around.
-- **Docs:** https://arsaze.com/docs/mcp
+- **Docs:** https://www.arsaze.com/docs/mcp
 
 ### Supported clients today
 
@@ -45,7 +45,7 @@ Full tool list is discoverable via the MCP `tools/list` method once connected.
 
 ## Support
 
-Issues connecting or using the Arsaze MCP server: https://arsaze.com/contact
+Issues connecting or using the Arsaze MCP server: https://www.arsaze.com/contact
 
 ## License / Access
 
