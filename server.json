@@ -1,17 +1,19 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.AnrosPrac/arsaze-mcp",
-  "description": "AI-native video editing OS — timeline editing, generation, color, and export as MCP tools.",
+  "description": "AI video editor for agents and humans: timeline, captions, color, audio and generation as MCP tools.",
   "repository": {
     "url": "https://github.com/AnrosPrac/arsaze-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": [
     {
-      "src": "https://www.arsaze.com/arsaze-hero-logo-transparent.png",
+      "src": "https://www.arsaze.com/brand/arsaze-logo-512.png",
       "mimeType": "image/png",
-      "sizes": ["any"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [
